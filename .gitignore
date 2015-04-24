@@ -1,0 +1,20 @@
+**.meta
+**.db
+**.sln
+**.userprefs
+
+StrawberryJM/Library/metadata/**
+StrawberryJM/Assembly-CSharp-Editor-vs.csproj
+StrawberryJM/Assembly-CSharp-Editor.csproj
+StrawberryJM/Assembly-CSharp-firstpass-vs.csproj
+StrawberryJM/Assembly-CSharp-firstpass.csproj
+StrawberryJM/Assembly-CSharp-vs.csproj
+StrawberryJM/Assembly-CSharp.csproj
+StrawberryJM/Assets/Editor/**
+StrawberryJM/Assets/Standard Assets/**
+StrawberryJM/Library/ScriptAssemblies/**
+StrawberryJM/Library/InspectorExpandedItems.asset
+**/assetDatabase3
+StrawberryJM/Library/guidmapper
+StrawberryJM/Library/metadata/00/**
+StrawberryJM/Temp/**
